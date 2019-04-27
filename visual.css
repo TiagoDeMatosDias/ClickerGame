@@ -1,0 +1,132 @@
+
+
+body { background: #eee;}
+
+b{
+    color: #ffffff;
+    font: 60px Arial;
+}
+
+.container{
+    background-color: #ffffff;
+    height: 500px;
+    width: 450px;
+    padding-right: 0px;
+    padding-left: 0px;    
+    
+}
+
+
+.main_btn {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: #ff5722;
+    border: 3px solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.auto_clicker_btn {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    border: 3px solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.auto_clicker_rank_increase_btn {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: #9e9e9e;
+    border: 3px solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.auto_clicker_rank_decrease_btn {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: #9e9e9e;
+    border: 3px solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.rank_label {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: #607d8b;
+    border: 3px solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.scoreboard{
+    width: 100%;
+    height: 100%;
+    background-color: #607d8b;
+    border: 3px solid #ffffff;
+    font: 60px Arial;
+    text-align: center;
+    vertical-align: bottom;
+    line-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.row-bot{
+    height: 25%;
+}
+
+.row-top{
+    height: 75%;
+}
+.col-8{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.col1{
+    min-height: 75%;
+    width: inherit;
+    background-color: #728b14;
+    text-align: center;
+}
+
+.col2{
+    min-height: 100%;
+    background-color: #a53b8e;
+    text-align: center;
+}
+
+
+.col3, .col5, .col6 {
+    min-height: 33.33%;
+    background-color: #a53b8e;
+    text-align: center;
+  }
+
+  .col-4{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
